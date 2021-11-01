@@ -1,0 +1,86 @@
+
+body{margin:0;} 
+.marvel{
+    background-color:rgb(202, 0, 0);
+    text-transform: uppercase;
+    padding:10px 0px 10px ;
+
+
+}
+.marveltext{
+    color: aliceblue;
+    padding: 0px;
+    margin: 0px;
+    text-shadow: 5px 5px #ff0000;
+    font-size: 70px;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+
+#spider{
+    height: 500px;
+    width: 500px;
+    float:right;
+}
+.spiderman{
+    background-color: #4D8BBC;
+    padding-top:10px;
+    height: 700px;
+}
+.ironman{
+ 
+    padding-top:10px;
+    background-color:#EDAC4D;
+    height: 700px;
+}
+#peter{
+    font-family:'Architects Daughter',cursive;
+    text-transform: uppercase;
+    padding-left:0.875em;
+    font-size:2em;
+}
+#spiderman{
+    font-family: 'Architects Daughter',cursive;
+    text-transform: uppercase;
+    color: #c9b204;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    padding-left:0.875em;
+    font-size:2.5em; 
+}
+#iron{
+    font-family: 'Zen Kurenaido', sans-serif;
+    padding-left:0.875em;
+    letter-spacing: 8px;
+    color: rgb(202, 0, 0);
+    font-size:2.5em; 
+    text-transform:uppercase;
+}
+#Tony{
+    font-family: 'Zen Kurenaido', sans-serif;
+    padding-left:0.875em;
+    font-size:2em; 
+    text-transform:uppercase;
+}
+#spiderpara{
+    font-family:'Roboto', sans-serif;
+    padding-left:1.875em;
+    text-indent: 10px;
+    font-size: 20px;
+}
+#iro{
+    height: 500px;
+    width: 600px;
+    float:right;
+    padding-top: 50px
+    ;
+
+}
+#para2{
+    font-family:'Roboto', sans-serif;
+    padding-left:1.875em;
+    text-indent: 10px;
+    font-size: 20px;
+}
